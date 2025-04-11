@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
-</div>
 
 <div id="hey" align="center">
   <h1>
@@ -27,7 +24,7 @@
 
 ## 👨‍💻 About Me:
 
-I'm a Systems Engineer and Full Stack Developer from San José, Costa Rica 🇨🇷, with experience in companies like **Fujitsu** and **Cecropia Solutions**. I specialize in cloud technologies (AWS & Azure), software development, and automation.
+I'm a Systems Engineer and Full-Stack Developer from San José, Costa Rica 🇨🇷, with experience in companies like Fujitsu and Cecropia Solutions. I specialize in cloud technologies (AWS & Azure), software development, and automation.
 
 Currently working as an **AWS Developer**, I’m focused on building scalable cloud-native applications, enhancing system performance, and exploring AI, ML, and startup development strategies.
 
@@ -38,13 +35,6 @@ Currently working as an **AWS Developer**, I’m focused on building scalable cl
 - Machine Learning & AI 🤖
 - Software Architecture 🏗️
 - Startups & Product Development 🚀
-
-💡 I'm currently:
-- Building a cloud-based alert system using DynamoDB and Lambda.
-- Developing a vegetable store management system (POS + Inventory).
-- Preparing for certifications: AWS SAA, Azure Developer, AWS AI Fundamentals.
-
-📫 Reach me at: [jeinervp@gmail.com](mailto:jeinervp@gmail.com) or through my [website](https://jeinervargas.dev)
 
 ---
 
