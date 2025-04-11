@@ -5,70 +5,69 @@
 <div id="hey" align="center">
   <h1>
     Hi!
-    I'm Ali Shan
+    I'm Jeiner Jafeth Vargas Portilla
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
+  <a href="mailto:jeinervp@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="https://t.me/al3shan">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/jeinervp">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://al3sha9.github.io/portfolio/">
+  <a href="https://jeinervargas.dev">
     <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/alishxn_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/jeiner-vargas-portilla">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
+## 👨‍💻 About Me:
 
+I'm a Systems Engineer and Full Stack Developer from San José, Costa Rica 🇨🇷, with experience in companies like **Fujitsu** and **Cecropia Solutions**. I specialize in cloud technologies (AWS & Azure), software development, and automation.
 
-## :man_technologist: About Me:
-As a seasoned web developer with expertise in HTML, CSS, JavaScript, React, Git, and Jest testing, I have honed my skills through hands-on experience in various organizations. Having worked as a web developer in two companies, I bring a wealth of knowledge and practical insights to my current role as a blockchain developer. In my current position, I am working on cutting-edge blockchain technologies like Cardano and Algorand Defi Projects, which has allowed me to expand my skill set and stay at the forefront of the latest advancements in the industry. I am passionate about using my skills to create innovative solutions that drive business growth and help organizations achieve their objectives.
+Currently working as an **AWS Developer**, I’m focused on building scalable cloud-native applications, enhancing system performance, and exploring AI, ML, and startup development strategies.
 
-As a 19-year-old university student studying Software Engineering, I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
+🎓 I'm finishing my degree in Software Engineering at Universidad Fidélitas, and I hold certifications in AWS, Azure, and Scrum.
 
-- 🔭 I’m currently working on DeFi Project on Cardano.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols, Testing, Solidity etc.
-- 💬 ping me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [alishandev@proton.me](mailto:alishandev@proton.me), you can also contact me from my [website](https://al3sha9.github.io/portfolio/).
+🧠 I'm passionate about:
+- Cloud Computing ☁️
+- Machine Learning & AI 🤖
+- Software Architecture 🏗️
+- Startups & Product Development 🚀
 
+💡 I'm currently:
+- Building a cloud-based alert system using DynamoDB and Lambda.
+- Developing a vegetable store management system (POS + Inventory).
+- Preparing for certifications: AWS SAA, Azure Developer, AWS AI Fundamentals.
 
-## :hammer_and_wrench: Languages and Tools:
+📫 Reach me at: [jeinervp@gmail.com](mailto:jeinervp@gmail.com) or through my [website](https://jeinervargas.dev)
+
+---
+
+## 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
- 
 
-  
-## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
+## 📁 Projects
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3sha9&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
-
-------
-
-Credit: [al3sha9](https://github.com/al3sha9)
-
-Last Edited on: 3/7/2023
+---
