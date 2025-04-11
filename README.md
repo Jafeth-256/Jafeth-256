@@ -7,21 +7,6 @@
   </h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:jeinervp@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Email Badge"/>
-  </a>
-  <a href="https://t.me/jeinervp">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://jeinervargas.dev">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jeiner-vargas-portilla">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ## 👨‍💻 About Me:
 
 I'm a Systems Engineer and Full-Stack Developer from San José, Costa Rica 🇨🇷, with experience in companies like Fujitsu and Cecropia Solutions. I specialize in cloud technologies (AWS & Azure), software development, and automation.
@@ -47,7 +32,6 @@ Currently working as an **AWS Developer**, I’m focused on building scalable cl
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
